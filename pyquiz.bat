@@ -1,4 +1,4 @@
 @echo off
-python pyguiz.py
+python pyquiz.py
 pause
 
